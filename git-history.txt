@@ -1,0 +1,73 @@
+-mmjobst$ git log
+commit 48c065f798902f22f35bfe62b8b7b6e0f1b5c527 (HEAD -> main, origin/main, origin/HEAD)
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Sat Jun 11 13:56:43 2022 +0200
+
+    changed filename to lorem_ipsum.txt
+
+commit b60ac9cca11de2f956a142c170edcd353adc7664
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Sat Jun 11 13:53:03 2022 +0200
+
+    changed data/lorem.txt
+
+commit e8cf83ed689142cd0c5d452de9c70e4a967375d0
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Sat Jun 11 13:50:21 2022 +0200
+
+    test3 gitignore
+
+commit e12ae9de431ff8503afc746755f2cd26384a9eb3
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Sat Jun 11 13:47:21 2022 +0200
+
+    gitignore test
+
+commit 93af1544fe074d6e016b38d5a90672317aef6d2d
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Sat Jun 11 13:42:37 2022 +0200
+
+    added data directory again
+
+commit ce12f21623a7121db0ed0b689eaffcaf54153128
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Sat Jun 11 13:39:53 2022 +0200
+
+    added temp folder
+
+commit 0058a269bada4b71bb9e6cea52702db00ac516e8
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Sat Jun 11 13:36:39 2022 +0200
+
+    Added data folder
+
+commit 1d74a92d5cf1e666306fe9a23024eb3eb1c9116d
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Sat Jun 11 13:32:49 2022 +0200
+
+    Fix broken link on contact page
+
+commit 564faa8312885c0c5bc46adfff27be7938123650
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Sat Jun 11 13:28:19 2022 +0200
+
+    gitignore
+
+commit 9b90bdbdc34e6f03779e37a9b09c6bff446b5652
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Fri Jun 10 20:05:32 2022 +0200
+
+    test
+
+commit d5a4cc870a631dd9ed7353d30ae117494dd88b9d
+Author: mmjobst <62211266+mmjobst@users.noreply.github.com>
+Date:   Thu Jun 9 21:07:01 2022 +0200
+
+    Create test
+
+commit d40bc4de0953314dce1f56f1d25c6f4c8ef864c1
+Author: Manuela Jobst <mmjobst@gmail.com>
+Date:   Thu Jun 9 21:04:46 2022 +0200
+
+    first commit
+(END)
