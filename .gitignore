@@ -33,4 +33,6 @@
 #additional files:
 *.log
 *.tmp
-*.temp
+
+#additional directories
+temp/
